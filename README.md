@@ -2,15 +2,7 @@
 
 «A full-stack intelligent bookstore that combines e-commerce, AI-powered book discovery, personalized recommendations, and an AI-driven learning system into a single platform.»
 
-""Next.js" (https://img.shields.io/badge/Next.js-16-black?logo=next.js)" (https://nextjs.org/)
-""React" (https://img.shields.io/badge/React-19-61DAFB?logo=react)" (https://react.dev/)
-""Node.js" (https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)" (https://nodejs.org/)
-""Express.js" (https://img.shields.io/badge/Express.js-API-000000?logo=express)" (https://expressjs.com/)
-""MongoDB" (https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)" (https://www.mongodb.com/)
-""Google Gemini" (https://img.shields.io/badge/Google-Gemini-4285F4?logo=google)" (https://ai.google.dev/)
-""Razorpay" (https://img.shields.io/badge/Razorpay-Payments-3395FF?logo=razorpay)" (https://razorpay.com/)
 
----
 
 ✨ Overview
 
